@@ -102,12 +102,13 @@ Each arc:
 
 ### 📊 Adaptive Difficulty
 
-**D1 (Age 10) → D10 (PhD Research)**
+**D1 (Beginner) → D10 (Research Level)**
 
 Same domain, infinite depth:
-- A 12-year-old beginner and a 45-year-old professional both start at Level 1
+- A high school student and a working professional both start at Level 1
 - Progress at your own pace
-- Merit-based advancement, not age-gated
+- Merit-based advancement
+- Target audience: Ages 14+
 
 ---
 
