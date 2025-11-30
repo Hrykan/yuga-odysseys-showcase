@@ -9,6 +9,7 @@
 [![Live App](https://img.shields.io/badge/🌐_Live_App-yugaodysseys.in-e08c47?style=for-the-badge)](https://yugaodysseys.in)
 [![Platform](https://img.shields.io/badge/Platform-Web_|_iOS_|_Android-blue?style=for-the-badge)](#platforms)
 [![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge)](#current-status)
+[![Roadmap](https://img.shields.io/badge/📋_Roadmap-View_Project-purple?style=for-the-badge)](https://github.com/users/Hrykan/projects/2)
 
 [**Try It Now →**](https://yugaodysseys.in)
 
@@ -150,6 +151,8 @@ Same domain, infinite depth:
 ---
 
 ## 🗺️ Roadmap
+
+**[📋 View Full Project Board →](https://github.com/users/Hrykan/projects/2)**
 
 ### Phase 1: Foundation (Current)
 - [x] Core gameplay loop
