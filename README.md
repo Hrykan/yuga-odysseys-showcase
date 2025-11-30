@@ -19,19 +19,29 @@
 
 ## 🎮 What is Yuga Odysseys?
 
-**Yuga Odysseys** is an **infinite learning platform** with civilization-building game mechanics. Set in a post-apocalyptic world, learners rebuild civilization by mastering knowledge across **24 comprehensive domains** - from basic survival skills to cutting-edge research.
+**Yuga Odysseys** is an **infinite learning platform** with civilization-building game mechanics. Set in a post-apocalyptic future, you rebuild civilization by mastering knowledge across **24 comprehensive domains** - learning from the mistakes of the past to build a better world.
 
 > *"What if learning felt like saving the world?"*
 
-### The Concept
+### 🌍 The Meta-Narrative
 
-In a world recovering from collapse, **knowledge is your only tool**. You're not memorizing facts - you're solving real dilemmas:
+**You are in the future.** Civilization has collapsed. An event known as **"The Great Forgetting"** destroyed most human knowledge - libraries burned, institutions crumbled, wisdom was scattered.
+
+The twist? **The "past" is our present.** The old world had all the knowledge it needed - sustainable farming, ethical governance, inner peace practices, scientific thinking - but failed to apply it wisely. Greed won over wisdom. Short-term over long-term. Division over unity.
+
+**Your mission**: Recover this lost knowledge and rebuild civilization *the right way*. You're not just learning history - you're learning **what went wrong** so you can **build what should have been**.
+
+This is the transition from **Kali Yuga** (Age of Darkness) to **Satya Yuga** (Age of Truth) - a concept from Hindu cosmology where humanity cycles through ages of wisdom and ignorance. You are the bridge.
+
+### The Gameplay
+
+You're not memorizing facts - you're solving real dilemmas that echo the mistakes of the past:
 
 - *"Your AI can predict market crashes but will harm others - what do you do?"*
 - *"Two villages need water. One has sick children, the other has crops dying. Who gets priority?"*
 - *"A friend shares fake news that supports your beliefs. How do you respond?"*
 
-Every challenge connects **ancient Indian wisdom** to **modern applications**.
+Every challenge connects **ancient Indian wisdom** to **modern applications** - because the answers were always there. We just forgot to listen.
 
 ---
 
@@ -68,13 +78,27 @@ Watch your civilization grow as you master knowledge:
 - Visual representation of your learning journey
 - From ruins → thriving civilization
 
-### 📖 58 Story Arcs
+### 📖 58 Curated Story Arcs
 
-Narrative-driven learning experiences:
-- Each arc tells a meaningful story
-- Complete challenges to progress
-- Unlock buildings and achievements
-- Mix of personal growth and community challenges
+Handcrafted narrative journeys across four categories:
+
+**🌱 Survival & Foundation** (15 arcs)
+> *"The First Harvest"* - Your settlement is starving. You find seeds in the ruins, but the soil is barren. Rediscover sustainable agriculture, understand ecosystems, and organize fair distribution.
+
+**🧠 Wisdom & Meaning** (14 arcs)
+> *"Finding Peace in Chaos"* - Survivors are traumatized, angry, hopeless. Discover meditation practices, philosophical frameworks, and psychological healing to restore inner peace.
+
+**🤝 Community & Society** (14 arcs)
+> *"Who Decides?"* - Your growing settlement needs rules. But who makes them? Design fair governance, establish justice systems, and prevent the tyranny that destroyed the old world.
+
+**🔬 Knowledge & Progress** (15 arcs)
+> *"Rediscovering Science"* - Superstition is spreading. Some blame "cursed technology" for the collapse. Recover the scientific method and separate fact from fear.
+
+Each arc:
+- 8-15 challenges with connected narrative
+- Spans 2-4 knowledge domains
+- Unlocks buildings upon completion
+- Sequential unlocking ensures proper knowledge building
 
 ### 📊 Adaptive Difficulty
 
