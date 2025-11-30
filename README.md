@@ -145,6 +145,77 @@ Same domain, infinite depth:
 
 ---
 
+## 🚀 GitHub as Force Multiplier: Solo Founder Infrastructure
+
+I use GitHub as my complete DevOps, AI-development, and project management infrastructure - pushing the platform's capabilities to maximise velocity as a solo founder.
+
+### 🌳 Parallel Development with Worktrees
+
+Git Worktrees let me maintain multiple working directories simultaneously:
+
+```
+yuga-odysseys/          ← Main development
+yuga-odysseys-assets/   ← Asset generation (images, icons)
+yuga-odysseys-hotfix/   ← Bug fixes without context switching
+yuga-odysseys-docs/     ← Documentation updates
+```
+
+**No branch switching. No stashing.** I work on multiple streams at once - something that typically requires multiple developers.
+
+### 🤖 AI-Augmented Development with GitHub MCP
+
+I integrated GitHub's **Model Context Protocol** with Claude Code. My AI assistant has direct access to:
+- Repository structure and code
+- Issue tracking and project boards
+- Commit history and branch context
+
+This turns Claude Code into a **context-aware development partner** who understands my entire codebase, not just the file currently open.
+
+### 🔄 Dual Deployment Pipeline
+
+GitHub serves as single source of truth, deploying to:
+
+| Target | Purpose |
+|--------|---------|
+| **Vercel** | Staging/preview for rapid iteration |
+| **Personal VPS** | Production for full control & cost optimization |
+
+One push triggers both deployments automatically.
+
+### 📋 Complete Project Management
+
+GitHub Issues replaced Jira/Azure DevOps. I track:
+- **588 challenges** across 24 knowledge domains
+- Feature requests, bugs, and technical debt
+- Sprint planning with milestones and kanban boards
+
+**Zero subscription cost.**
+
+### 📚 Living Documentation
+
+I maintain technical specs, architecture decisions, and development logs directly in the repo:
+- `CLAUDE.md` - AI assistant context
+- `docs/` - Technical specifications
+- `CHANGELOG/` - Session-by-session development diary
+
+My commit history serves as a **searchable project diary**.
+
+### 📊 The Result
+
+My output looks like a **3-4 person engineering team**, but it's just me using GitHub's full capabilities:
+
+| Capability | GitHub Feature |
+|------------|----------------|
+| Parallelism | Git Worktrees |
+| AI Assistance | MCP Integration |
+| Professional Deployment | Actions + Webhooks |
+| Organization | Issues + Projects |
+| Documentation | Markdown in repo |
+
+**GitHub isn't just where my code lives. It's the force multiplier that made Yuga Odysseys possible.**
+
+---
+
 ## 📱 Platforms
 
 | Platform | Status |
